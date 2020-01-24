@@ -24,7 +24,7 @@ Everything here is written in plain-text using Markdown for formatting. This may
 
 ## Licensed under Creative Commons
 Everything here is licensed under the **[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0)** flavor of Creative Commons.
-For some reference, this is the same license used by [Wikipedia](www.wikipedia.org).
+For some reference, this is the same license used by [Wikipedia](https://www.wikipedia.org/).
 The legal details are in the [LICENSE](/LICENSE.md) document, but the human readable highlights are:
 
 > ### You are free to:
