@@ -1,20 +1,27 @@
 # The Hub World
 
-Welcome to *Austin School of Game Design*! Here you'll find game design resources all written and shared under the open source Creative Commons license (CC BY-SA 4.0).
-Here you'll find high quality/in-depth stuff like:
+Welcome to *Austin School of Game Design*! Here you'll find game design resources - for both video games and board/tabletop games - written and shared under the open source Creative Commons license (CC BY-SA 4.0).
+In-depth stuff like:
 
-- Game analysis
+- Game analysis and breakdowns
 - Game design theory
-- Exercises/Courses
-- <!-- todo -->
+- Game design mechanisms
+- Game design exercises and courses
+- Studies, articles, videos, talks
+- Textbooks, scholarly articles
+- Lists of external resources like recommended books, conventions, programs, etc.
+- And whatever else ends up being relevant
 
 ## Project Motivation
 
 When doing a Google search for '[game design](http://google.com/#q=game+design)' as of January 2020, the results skew heavily toward accredited degrees and expensive training programs.
 Very few of the results are for helping people actually learn how to design games.
-Game design is a very experimental and interative process, so it's a shame that <!-- todo -->
+Game design is a very experimental and interative process - something you need to practice at for a long time to get a feel for.
 
-Resources for learning game design exist, but they are scattered across personal blogs, inside reddit, GDC talks, YouTube videos, books, etc. <!-- todo -->
+Good resources for learning game design *do* exist, but they're scattered across personal blogs, reddit, GDC talks, YouTube videos, books and many other places.
+There currently does not exist a singlular place for high quality resources that is also accessible for aspiring and professional game designers.
+
+We here at *ASGD* feel that game design is a field as important to the future development of the world as 
 
 ## Project Vision <!-- todo  -->
 
