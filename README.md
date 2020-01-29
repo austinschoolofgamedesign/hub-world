@@ -16,16 +16,21 @@ Here you'll find high quality game design resources - for both video games and b
 When doing a Google search for '[game design](http://google.com/#q=game+design)' as of January 2020, the results skew heavily toward accredited degrees and expensive training programs.
 Very few of the results are for helping people actually learn how to design games.
 Game design is a very experimental and interative process - something you need to practice at for a long time to get a feel for.
+It's important to tinker with systems in your free time, not just once you decide to go to college to work on games.
 
 Good resources for learning game design *do* exist, but they're scattered across personal blogs, reddit, GDC talks, YouTube videos, books and many other places.
 There currently does not exist a singlular place for high quality resources that is also accessible for aspiring and professional game designers.
 
-We here at *ASGD* feel that game design is an important field of study for the future development of the world.
-The principled learned from studying games and play has far reaching implications in education, politics, cultural dynamics, social structures, and motivativion (to name a few).
+We here at the *Austin School of Game Design (ASGD)* feel that game design is an important field of study for the future development of the world.
+The principles learned from studying games and play has far reaching implications in education, politics, cultural dynamics, social structures, and motivativion (to name a few).
 Part of that is, of course, the cultural misunderstanding around the importance of play and its inherent value.
-But it's also that we, as proponents of game design, are also not very good at documenting and sharing the insight we've made.
+But it's also that we, as proponents of game design, are also not very good at documenting and sharing the insights we've made.
+
+Documenting games designs is a hard, fairly subjective, process.
+Because of this, it's easier to keep the hard-to-explain concepts in your head than to document them for shared understanding.
 
 Our hope is that *Austin Shool of Game Design* can be a catalyst in making that change.
+We believe that by sharing our insights, holding each other up to a standard of quality rather than a specific kind of design mentality, we can help one another shoot far higher than if we continued to do it in a fractured way.
 
 ## Project Vision
 
@@ -34,7 +39,7 @@ While the process outlined below will most certainly be more organic than the do
 ### Phase 1
 
 In the beginning, the focus of *ASGD* is to collect and organize a large body of high quality game design resources.
-This will be done through making partnerships with both professional and amateur game designers willing to contribute their thoughts and processes to *ASGD*'s open sourced resources.
+This will be done through making partnerships with both professional and amateur game designers willing to contribute their thoughts and processes to *ASGD*'s open sourced repository.
 
 You know how it is... it's an open source project!
 
