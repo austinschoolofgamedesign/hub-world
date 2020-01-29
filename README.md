@@ -35,14 +35,19 @@ While the process outlined below will most certainly be more organic than the do
 ### Phase 1
 
 In the beginning, the focus of *ASGD* is to collect and organize a large body of high quality game design resources.
+This will be done through making partnerships with both professional and amateur game designers willing to contribute their thoughts and processes to *ASGD*'s open sourced resources.
 
 ### Phase 2
 
-When there's enough traction and mass within the open sourced documentation, we will begin sponsoring and organizing community events around fleshing out the portions of our internal resources that aren't up to snuff.
+When there's enough traction and mass within the open sourced documentation, we'll begin sponsoring and organizing community events around fleshing out the portions of our internal resources that aren't up to snuff.
+We'll also look at building up community traction by speaking at conventions, participating on panels, working with higher-profile YouTubers, etc.
+Any additional ideas and efforts here would be much appreciated!
 
 ### Phase 3
 
-<!-- todo  -->
+And the final phase is to establish *ASGD* as an actual game design school.
+This would involve looking into creating online courses, physical location(s), accreditation, etc.
+We'll be using our resources to help create textbooks, become integral in influencing industry norms, sponsor game design jams, and open doors for those wanting to be a force in the game design industry.
 
 ## Contribute <!-- TODO -->
 
