@@ -1,4 +1,4 @@
-# Welcome to *Austin School of Game Design*
+# Welcome to the *Austin School of Game Design*
 
 Here you'll find high quality game design resources - for both video games and board/tabletop games - written and shared under the open source Creative Commons license (CC BY-SA 4.0).
 
