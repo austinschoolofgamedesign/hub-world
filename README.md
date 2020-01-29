@@ -27,9 +27,9 @@ Part of that is, of course, the cultural misunderstanding around the importance 
 But it's also that we, as proponents of game design, are also not very good at documenting and sharing the insights we've made.
 
 Documenting games designs is a hard, fairly subjective, process.
-Because of this, it's easier to keep the hard-to-explain concepts in your head than to document them for shared understanding.
+Because of this, it's easier to keep the hard-to-explain concepts in our heads than to document them for shared understanding.
 
-Our hope is that *Austin Shool of Game Design* can be a catalyst in making that change.
+Our hope is that *ASGD* can be a catalyst in making that change.
 We believe that by sharing our insights, holding each other up to a standard of quality rather than a specific kind of design mentality, we can help one another shoot far higher than if we continued to do it in a fractured way.
 
 ## Project Vision
@@ -60,7 +60,7 @@ We'll be using our resources to help create textbooks, become integral in influe
 *ASGD* is built by a group of passionate game design nerds that want to make game design more accessible.
 Everything here has been written and contributed by everyday normal folks like you.
 
-If you've ever done a game analysis, designed a board game, GM'd a tabletop game in a unique way, written a game design blog, or anything of the sort, you're exactly the kind of person that will make *Austin School of Game Design* grow and thrive.
+If you've ever done a game analysis, designed a board game, GM'd a tabletop game in a unique way, written a game design blog, or anything of the sort, you're exactly the kind of person that will make the *Austin School of Game Design* grow and thrive.
 
 Check out our [step-by-step contributor guide](/CONTRIBUTOR.md) for more details when you're ready!
 
@@ -87,4 +87,4 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 
 Please feel free to use the content here in your YouTube videos, blog posts, talks, books, research, articles, your business, your non-profit, and whatever else.
 All we ask is that you give credit where credit is due, and apply the same rights to your original work.
-This helps foster
+This helps foster the love of open source, and can create a wildfire effect for game design thinking.
