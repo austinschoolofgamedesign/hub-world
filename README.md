@@ -21,14 +21,28 @@ Game design is a very experimental and interative process - something you need t
 Good resources for learning game design *do* exist, but they're scattered across personal blogs, reddit, GDC talks, YouTube videos, books and many other places.
 There currently does not exist a singlular place for high quality resources that is also accessible for aspiring and professional game designers.
 
-We here at *ASGD* feel that game design is a field as important to the future development of the world as systems design, or design thinking.
-However, the depth of understanding of game design pales in comparison.
-Part of that is, of course, the misunderstanding of games and their inherent value in the lives of the human race.
-But it's also that we, as proponents of game design thinking, are also not very good at documenting and sharing the insight we've gained.
+We here at *ASGD* feel that game design is an important field of study for the future development of the world.
+The principled learned from studying games and play has far reaching implications in education, politics, cultural dynamics, social structures, and motivativion (to name a few).
+Part of that is, of course, the cultural misunderstanding around the importance of play and its inherent value.
+But it's also that we, as proponents of game design, are also not very good at documenting and sharing the insight we've made.
 
 Our hope is that *Austin Shool of Game Design* can be a catalyst in making that change.
 
-## Project Vision <!-- todo  -->
+## Project Vision
+
+While the process outlined below will most certainly be more organic than the documentation makes it feel, there are a few milestones - or phases - that will indicate when we've reached some critical mass.
+
+### Phase 1
+
+In the beginning, the focus of *ASGD* is to collect and organize a large body of high quality game design resources.
+
+### Phase 2
+
+When there's enough traction and mass within the open sourced documentation, we will begin sponsoring and organizing community events around fleshing out the portions of our internal resources that aren't up to snuff.
+
+### Phase 3
+
+<!-- todo  -->
 
 ## Contribute <!-- TODO -->
 
@@ -57,4 +71,5 @@ You may do so in any reasonable manner, but not in any way that suggests the lic
 >
 > ***No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.*
 
-Please feel free to use the content here in your YouTube videos, 
+Please feel free to use the content here in your YouTube videos, blog posts, books, research, articles, and whatever else.
+All we ask is that you give credit where credit is due, and apply the same rights to your original work.
