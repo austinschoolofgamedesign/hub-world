@@ -1,13 +1,9 @@
-https://mozillascience.github.io/working-open-workshop/contributing/
-
 # How to contribute to the *Austin School of Game Design*
 
-- what/why markdown
-  - How to make markdown tables
 - organizing though consistent folders and filenames
 - What tags are best to start with?
 - Style guide for what headers, line breaks, etc., mean.
-- 
+-
 - How to do a 'Merge/Squash'
 - Short Links to Important Resources:
   - docs: handbook / roadmap (you'll learn more about this in the roadmapping session)
@@ -15,7 +11,7 @@ https://mozillascience.github.io/working-open-workshop/contributing/
   - comms: forum link, developer list, IRC/email
 <!-- todo: finish this list -->
 
-## A Big Welcome!
+## A Big Welcome
 
 We're *so* glad you're here!
 The *Austin School of Game Design* is a large ongoing project that is trying to do the work of many full-time employees, without the employees.
@@ -69,11 +65,15 @@ In this section we'll go over some of the common terms and how we use them at *A
 > [**Pull Requests**](https://github.com/austinschoolofgamedesign/hub-world/pulls) are where we keep all new content.
 > As soon as you start working on something new, make a new branch and open a 'Draft Pull Request'
 
-
+<!-- todo -->
 
 ### Start conversations by creating an 'Issue'
 
+<!-- todo -->
+
 ### Submit drafts for review by opening a 'Pull Request'
+
+<!-- todo -->
 
 ## Formatting and Styling
 
@@ -89,6 +89,10 @@ Modern word processors like Microsoft Word or Libre Office have a ton of options
 For our purposes at *ASGD*, most of those features only cause problems.
 Markdown
 
+https://www.markdownguide.org/basic-syntax/
+
+https://www.markdownguide.org/cheat-sheet/
+
 ### *ASGD* Styling Conventions
 
-
+### Folder and File Naming
