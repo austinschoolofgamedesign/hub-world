@@ -9,20 +9,21 @@ Here you'll find high quality game design resources - for both video games and b
 - Studies, articles, videos, talks
 - Textbooks, scholarly papers
 - Lists of external resources like recommended books, conventions, programs, etc.
-- And whatever else ends up being relevant
 
 ## Project Motivation
 
 When doing a Google search for '[game design](http://google.com/#q=game+design)' as of January 2020, the results skew heavily toward accredited degrees and expensive training programs.
 Very few of the results are for helping people actually learn how to design games.
-Game design is a very experimental and interative process - something you need to practice at for a long time to get a feel for.
-It's important to tinker with systems in your free time, not just once you decide to go to college to work on games.
+Game design is a very experimental and iterative process.
+It's important to tinker with game systems in your free time, not just once you decide to go to college to work on games.
 
 Good resources for learning game design *do* exist, but they're scattered across personal blogs, reddit, GDC talks, YouTube videos, books and many other places.
-There currently does not exist a singlular place for high quality resources that is also accessible for aspiring and professional game designers.
+There currently does not exist a singlular place for high quality resources that's also accessible for aspiring and professional game designers.
 
-We here at the *Austin School of Game Design (ASGD)* feel that game design is an important field of study for the future development of the world.
+Here at the *Austin School of Game Design (ASGD)*, we feel that game design is an important field of study for the future development of the world.
 The principles learned from studying games and play has far reaching implications in education, politics, cultural dynamics, social structures, and motivativion (to name a few).
+
+Despite game design's importance, we don't even have a strong distinction between game design and game development within the industry itself.
 Part of that is, of course, the cultural misunderstanding around the importance of play and its inherent value.
 But it's also that we, as proponents of game design, are also not very good at documenting and sharing the insights we've made.
 
