@@ -1,6 +1,6 @@
 # Welcome to the *Austin School of Game Design*
 
-Here you'll find high quality game design resources - for both video games and board/tabletop games - written and shared under the open source Creative Commons license (CC BY-SA 4.0).
+Here you'll find high quality game design resources - for both video games and board/tabletop games - written and shared under the open source **Creative Commons license (CC BY-SA 4.0)**.
 
 - Game analysis and breakdowns
 - Game design theory
@@ -67,7 +67,7 @@ Check out our [step-by-step contributor guide](/CONTRIBUTOR.md) for more details
 
 ## Licensed under Creative Commons
 
-Everything here is licensed under the **[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0)** flavor of Creative Commons.
+Everything here is licensed under the **[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)** flavor of Creative Commons.
 For some reference, this is the same license used by [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Copyrights).
 The legal details are in the [LICENSE](/LICENSE.md) document, but the human-readable highlights are:
 
