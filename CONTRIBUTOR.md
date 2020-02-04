@@ -31,6 +31,7 @@ Expect more discussion and soft opinions here.
 1. [Join the Conversation](#join-the-conversation)
 1. [How to Use GitHub](#how-to-use-github)
 1. [Formatting and Styling](#formatting-and-styling)
+1. [Folder and File Naming](#folder-and-file-naming)
 
 ## Code of Conduct
 
@@ -95,4 +96,35 @@ https://www.markdownguide.org/cheat-sheet/
 
 ### *ASGD* Styling Conventions
 
-### Folder and File Naming
+## Folder and File Naming
+
+### Filenames
+
+Because *ASGD* has a lot of files across many different kinds of discussions, we use a simple but strict naming convention to make sure everything is accounted for.
+
+Here are a few examples of possible filenames:
+
+- `202002041148-dekuTreeAnalysis.md`
+- `201912312013-responseToChartDependencies.md`
+- `202106131347-nierAutomataMenu.jpg`
+
+There are three required elements to each filename.
+
+- Unique ID timestamp followed by a hyphen
+  - Every filename starts with a timestamp following the convention `YYYYMMDDhhmm`, using the 24hr convention for the hours.
+  For convenience sake, use the current time displayed on your computer's clock.
+  For example, If I were to create a timestamp for right now it would be `202002041144` which is the year 2020, month 02, day 04, hour 11, minute 44 - **11:44 am, February 4th, 2020**.
+  This is a simple way to create meaningful and consistently lengthed unique IDs for each file without needing to use a third party tool.
+  - The timestamp is to make the file computer readable.
+  Even if the description is the same, the computer can differentiate between the files because of the unique ID.
+- Camel case file description
+  - The actual description is to make the filename human readable.
+  Something short and descriptive is best.
+  - Camel case naming is a programming convention that removes the need to add spaces between words when it's part of a filename or variable.
+  The first word is lower-case, and each word following is capitalized.
+  For example, if I analyzed the Deku Tree from *Ocarina of Time*, I might want to call it '*Deku Tree Analysis*'.
+  To convert it to camel case, I would remove the spaces and lower-case the first word - `dekuTreeAnalysis`.
+- The file extension
+  - Because modern operating systems default to automatically adding filenames to the end of your files, it's easy to forget to add it manually.
+  Specifically be careful to always remember the `.md` extension for Markdown text files.
+  The computer uses the `.md` extension to format the text correctly.
