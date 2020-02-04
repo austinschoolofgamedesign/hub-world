@@ -2,11 +2,25 @@
 
 ## Ron Gilbert Style Charts
 
-https://grumpygamer.com/puzzle_dependency_charts
+> For context, check out Ron Gilbert's [post on his blog](https://grumpygamer.com/puzzle_dependency_charts) about how he created and used these charts.
+
+### Chart Elements
+
+### Chart Specific Insights
+
+Below is a chart of all of the key item dependencies required to beat *Ocarina of Time*.
+It's extremely valuable in documenting the flow of events throughout the game as a whole without getting caught up in the details of dungeons and story elements.
+
+> **NOTE**: Gareth Rees, the author of this chart, added some structure to the chart by placing dependencies above and below one another.
+> While note required, it makes the graph easier to read with so many elements.
+
+![Ocarina of Time Item Graph](/images/202002041230-ootReesItemGraph.png)
+
+Image from *[Puzzle Structure of Ocarina of Time](https://garethrees.org/2004/12/01/ocarina-of-time/)* by Gareth Rees
 
 ## Mark Brown Style Charts
 
-https://www.patreon.com/posts/how-i-make-graph-20631617
+> Before you dive into my description of them, check out Mark's [detailed description about how his charts work](https://www.patreon.com/posts/how-i-make-graph-20631617).
 
 Mark Brown's charts are cool in that the structure of the chart itself conveys more information than a more flexible chart can.
 For example, in Ron Gilbert's charts above, the fluid nature of where elements are placed makes it difficult to quickly scan the chart to gain meaningful information.
@@ -29,13 +43,37 @@ And the ledge could be scaled via a double-jump powerup.
 
 Because everything is simplified into a set of **locks** and **keys**, the chart can be optimized to focus on surfacing the relationship between them.
 And herein lies the brilliance of Mark's charts.
+Rather than allowing the elements to float freely, he uses vertical and horizontal positioning of the elements to convey additional information.
 
-### 
+### Chart Specific Insights
+
+It easy to quickly scan and parse a graph to understand the relative linearity and backtracking required to solve a physically based set of lock/key puzzles.
+
+I recreated Gareth Rees' item dependency chart using Mark Brown's chart structure, and it's already easier to read (if not a little taller).
+Of note is how easy it is to see how linear the game is at first, but quickly opens up when you become an adult.
+Then you can see the game narrow down slowly until it becomes linear toward the end.
+
+![Mark Brown Style Ocarina of Time Item Graph](/images/202002041236-ootGMTKGraph.png)
 
 ## Petri Nets
 
-https://en.wikipedia.org/wiki/Petri_net
+> Petri Nets are a relatively niche chart in the mathematics community used for modeling concurrent distributed systems.
+> Check out the [article on Wikipedia](https://en.wikipedia.org/wiki/Petri_net) about them.
+
+There are some really cool things that make Petri Nets almost ideal for modeling game structures.
+However, their rigid elements can sometimes make simple game designs look unwieldy, while also lacking some basic functionality that could help model.
+
+They also suffer from the same problem as Gilbert's charts, namely that their flexibility can make a chart feel like a mass of lines rather than something useful to parse quickly.
+They're better at documenting literal systems than they are at quickly comparing and analyzing different systems.
+
+### Chart Elements
+
+### Chart Specific Insights
+
+> **NOTE**: I started to recreate Rees' chart as a Petri Net, but it became unwieldy quickly.
+> The benefits of using a vanilla Petri Net in this case are negligible.
+> Petri Nets could help model inventory, or multiple concurrent players maybe.
 
 ## My Hybrid Charts
 
-I really like the simple complexity of the Petri Nets
+I really like the robustness of Petri Nets in comparison to Ron Gilbert's more generalized 
