@@ -1,24 +1,30 @@
 # Dependency Charts
 
+This article serves two purposes.
+The first is to document the two main ways I've seen item/lock/key dependencies documented and designed in games.
+The second is to muse on and present some ideas about a new kind of graph that caputers the best elements of them all.
+
+My hope is that we, as a community, can collectively can stand on the shoulders of giants and lift everyone a little higher.
+
 ## Ron Gilbert Style Charts
 
 > For context, check out Ron Gilbert's [post on his blog](https://grumpygamer.com/puzzle_dependency_charts) about how he created and used these charts.
 
-### Chart Elements
+### Gilbert Chart Elements
 
-### Chart Specific Insights
+### Gilbert Chart Specific Insights
 
 Below is a chart of all of the key item dependencies required to beat *Ocarina of Time*.
 It's extremely valuable in documenting the flow of events throughout the game as a whole without getting caught up in the details of dungeons and story elements.
 
 > **NOTE**: Gareth Rees, the author of this chart, added some structure to the chart by placing dependencies above and below one another.
-> While note required, it makes the graph easier to read with so many elements.
+> It makes the graph easier to read with so many elements.
 
 ![Ocarina of Time Item Graph](/images/202002041230-ootReesItemGraph.png)
 
 Image from *[Puzzle Structure of Ocarina of Time](https://garethrees.org/2004/12/01/ocarina-of-time/)* by Gareth Rees
 
-## Mark Brown Style Charts
+## Mark Brown (GMTK) Style Charts
 
 > Before you dive into my description of them, check out Mark's [detailed description about how his charts work](https://www.patreon.com/posts/how-i-make-graph-20631617).
 
@@ -28,24 +34,24 @@ It acts more as documentation than it does as a tool to be read.
 
 Mark's charts, in contrast, are built with a specific goal in mind, and that limitation allows for quick parsing.
 They originally started as a graph to map out the key/lock dependencies in the *Zelda* games.
-As such, they are hevily influenced by how those games tend to use keys and locks.
+As such, they are heavily influenced by how those games tend to use keys and locks.
 
-### Chart Elements
+### GMTK Chart Elements
 
-A **lock** can be more generally thought of as a designer imposed obstacle.
-Locked doors obviously fit into this category, but less obviously includes switches that con only be activated by being shot with an arrow.
+A ***lock*** can be more generally thought of as a designer imposed obstacle.
+Locked doors obviously fit into this category, but can include less obvious things like switches that are activated by being shot with an arrow.
 Or a ledge that can only be scaled with a new power-up.
 
-A **key** is the thing that allows you, as the player, to bypass a particular **lock**.
+A ***key*** is the thing that allows you, as the player, to bypass a particular ***lock***.
 To use those same examples, a small key would open a typical door.
 A bow and arrow would be a 'key item' that allows you to shoot the lock with the required arrow.
 And the ledge could be scaled via a double-jump powerup.
 
-Because everything is simplified into a set of **locks** and **keys**, the chart can be optimized to focus on surfacing the relationship between them.
+Because everything is simplified into a set of ***locks*** and ***keys***, the chart can be optimized to focus on surfacing the relationships between them.
 And herein lies the brilliance of Mark's charts.
 Rather than allowing the elements to float freely, he uses vertical and horizontal positioning of the elements to convey additional information.
 
-### Chart Specific Insights
+### GMTK Chart Specific Insights
 
 It easy to quickly scan and parse a graph to understand the relative linearity and backtracking required to solve a physically based set of lock/key puzzles.
 
@@ -60,15 +66,15 @@ Then you can see the game narrow down slowly until it becomes linear toward the 
 > Petri Nets are a relatively niche chart in the mathematics community used for modeling concurrent distributed systems.
 > Check out the [article on Wikipedia](https://en.wikipedia.org/wiki/Petri_net) about them.
 
-There are some really cool things that make Petri Nets almost ideal for modeling game structures.
-However, their rigid elements can sometimes make simple game designs look unwieldy, while also lacking some basic functionality that could help model.
+There are some really cool things that make Petri Nets *almost* ideal for modeling game structures.
+However, their rigid elements can sometimes make simple game designs look unwieldy, and also lack some basic functionality that could help.
 
 They also suffer from the same problem as Gilbert's charts, namely that their flexibility can make a chart feel like a mass of lines rather than something useful to parse quickly.
 They're better at documenting literal systems than they are at quickly comparing and analyzing different systems.
 
-### Chart Elements
+### Petri Net Chart Elements
 
-### Chart Specific Insights
+### Petri Net Chart Specific Insights
 
 > **NOTE**: I started to recreate Rees' chart as a Petri Net, but it became unwieldy quickly.
 > The benefits of using a vanilla Petri Net in this case are negligible.
