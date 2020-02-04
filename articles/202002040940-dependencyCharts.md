@@ -2,7 +2,11 @@
 
 ## Ron Gilbert Style Charts
 
+https://grumpygamer.com/puzzle_dependency_charts
+
 ## Mark Brown Style Charts
+
+https://www.patreon.com/posts/how-i-make-graph-20631617
 
 Mark Brown's charts are cool in that the structure of the chart itself conveys more information than a more flexible chart can.
 For example, in Ron Gilbert's charts above, the fluid nature of where elements are placed makes it difficult to quickly scan the chart to gain meaningful information.
@@ -30,4 +34,8 @@ And herein lies the brilliance of Mark's charts.
 
 ## Petri Nets
 
+https://en.wikipedia.org/wiki/Petri_net
+
 ## My Hybrid Charts
+
+I really like the simple complexity of the Petri Nets
