@@ -90,7 +90,7 @@ More about these two in the section below.
 
 ### Start conversations by creating an 'Issue'
 
-Don't let the name fool you, Issues are the most powerful comment and discussion tool ever made.
+Don't let the name fool you, [Issues](https://github.com/austinschoolofgamedesign/hub-world/issues) are the most powerful comment and discussion tool ever made.
 They were originally created to keep track of software bugs, and so the tool needed to have lots of capabilities for expressing that level of detail.
 
 Lucky for us, because even though we're not discussing software changes, we *are* discussing detailed game designs.
@@ -99,7 +99,7 @@ So even though they're called Issues, just know that Issues are a place to have 
 The search feature is very powerful.
 And the tags assigned to different threads are there to help sort through everything.
 
-If you have an idea, do a quick search in the Issues.
+If you have an idea, do a quick search in the [Issues](https://github.com/austinschoolofgamedesign/hub-world/issues).
 If you find something already there, go ahead and add your voice to the conversation.
 If you don't find what you're looking for, go ahead and start a new thread by clicking the big '**New Issue**' button.
 
@@ -107,14 +107,23 @@ Some open source projects lock down the Issues for very specific kinds of discus
 For *ASGD* though, we feel that they are a fantastic place to have more general conversations.
 And if there are specific things to note, like typos or feature requests, those can easily be noted and filtered with tags.
 
-What I'm saying is, don't shy away from creating Issues.
+What I'm saying is, don't shy away from creating [Issues](https://github.com/austinschoolofgamedesign/hub-world/issues).
 They're there to keep conversations organized and focused, not to limit the amount or kinds of communication.
 
 > **Come introduce yourself in the [official Introductions thread](https://github.com/austinschoolofgamedesign/hub-world/issues/6)!**
 
 ### Work In Progress (WIP) goes in a 'Pull Request'
 
-<!-- todo -->
+If Issues are for discussions, then [Pull Requests](https://github.com/austinschoolofgamedesign/hub-world/pulls) are where we keep our actual work that's in progress.
+Transparency is key in an open source project, and keeping drafts visible for review is a great way to embrace that idea.
+
+Once your drafts are ready for submission, a simple change in a dropdown menu tells contributors that you're ready to have your contribution reviewed and merged into the rest of the project.
+
+We'll go into workflows in the next section, so I won't get more detailed here.
+Just know that a [Pull Request](https://github.com/austinschoolofgamedesign/hub-world/pulls) is where you request that someone pulls your draft into the public repository.
+
+Typically, new content starts as a discussion in an Issue (though not always).
+And then once it's clear about the work that needs to be done, and someone starts actually working on it, a draft Pull Request is opened.
 
 ### GitHub workflow
 
