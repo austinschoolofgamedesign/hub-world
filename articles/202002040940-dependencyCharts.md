@@ -22,7 +22,7 @@ It's extremely valuable in documenting the flow of events throughout the game as
 
 ![Ocarina of Time Item Graph](/images/202002041230-ootReesItemGraph.png)
 
-Image from *[Puzzle Structure of Ocarina of Time](https://garethrees.org/2004/12/01/ocarina-of-time/)* by Gareth Rees
+Image from *[Puzzle Structure of Ocarina of Time](https://garethrees.org/2004/12/01/ocarina-of-time/)* by Gareth Rees on [garethrees.com](https://garethrees.org/2004/12/01/ocarina-of-time/)
 
 ## Mark Brown (GMTK) Style Charts
 
@@ -78,7 +78,8 @@ They're better at documenting literal systems than they are at quickly comparing
 
 > **NOTE**: I started to recreate Rees' chart as a Petri Net, but it became unwieldy quickly.
 > The benefits of using a vanilla Petri Net in this case are negligible.
-> Petri Nets could help model inventory, or multiple concurrent players maybe.
+> It looked essentially the same, but had twice the number of nodes.
+> Petri Nets could maybe help model inventory collection, or multiple concurrent players.
 
 ## My Hybrid Charts
 
