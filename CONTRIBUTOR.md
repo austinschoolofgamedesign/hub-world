@@ -33,13 +33,18 @@ Expect more discussion and soft opinions here.
 
 ## Code of Conduct
 
-Before we get to the fun stuff, we need to set some ground rules.
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
+Before we get to the nuts and bolts, we need to set some ground rules.
 We're all part of a larger community here, and we all want the same end goal - to build the best and most accessible game design school in the world.
 However, sometimes we have different opinions about the steps to get there, and tensions can get high.
 So we've put together some basic ground rules to make sure that everyone can work together amicably.
 
 Before going further, take some time to read through the [**Code of Conduct**](/CODE_OF_CONDUCT.md).
 Let's all do our part to make sure this place is an awesome place to share our thoughts and feels about games.
+
+> Please note that this project is released with a Contributor Code of Conduct.
+> By participating in this project you agree to abide by its terms.
 
 ## Join the Conversation
 

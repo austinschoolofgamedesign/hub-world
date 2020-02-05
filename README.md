@@ -1,5 +1,7 @@
 # Welcome to the *Austin School of Game Design*
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 Here you'll find high quality game design resources - for both video games and board/tabletop games - written and shared under the open source **Creative Commons license (CC BY-SA 4.0)**.
 
 - Game analysis and breakdowns
