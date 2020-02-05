@@ -127,9 +127,50 @@ And then once it's clear about the work that needs to be done, and someone start
 
 ### GitHub workflow
 
+We understand the differences between an Issue and a Pull Request.
+Now we need to know how to actually open Issues and Pull Requests.
+
+Fair warning, this is probably the most complicated part of GitHub.
+I'm not going to sugar coat it.
+However, this is a process that doesn't change, so once you've gone through it a couple of times - while shamelessly following this guide step-by-step - you'll be a GitHub pro.
+
+#### Step 1 - Create a Fork
+
+First, you need to create a working copy of the *ASGD* repository - called a Fork - to make your changes and contributions.
+
+You create a Fork by clicking the button at the top of the screen.
+
+<!-- todo: add image -->
+
+When you contribute to an open source project on GitHub, you're not actually making direct edits to the repository like you would on Wikipedia, for example.
+What you're doing is making a copy of the entire *ASGD* repository and saving it to your own personal GitHub account.
+
+Then you make all the changes to your own copy, and then merge them into the official *ASGD* repository once you're happy with your changes.
+This is great because it allows you to do whatever you want without fear of messing anything up.
+
+Creating a copy of the base *ASGD* repository is called Forking it.
+Think of it like an alternate dimension where anything can happen.
+In fact, you could Fork it and go off and start your own game design school if you wanted.
+That's what the Creative Commons license is for.
+Though, my hope is that you'll stick around and get through to the 'Merge' section below.
+
+#### Step 2 - Write your piece
+
 <!-- todo -->
 
-#### A sample workflow
+#### Step 3 - Create a Pull Request
+
+<!-- todo -->
+
+#### Step 4 - Get it reviewed
+
+<!-- todo -->
+
+#### Step 5 - Merge your Pull Request
+
+<!-- todo -->
+
+#### An example workflow
 
 <!-- todo -->
 
@@ -247,7 +288,3 @@ There are three required elements to each filename.
 ### Folders
 
 <!-- todo -->
-
-## When You're Ready to Submit
-
-<!-- todo - How to do a 'Merge/Squash' -->
