@@ -25,8 +25,6 @@ Expect more discussion and soft opinions here.
 
 ## Code of Conduct
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-
 Before we get to the nuts and bolts, we need to set some ground rules.
 We're all part of a larger community here, and we all want the same end goal - to build the best and most accessible game design school in the world.
 However, sometimes we have different opinions about the steps to get there, and tensions can get high.
@@ -35,7 +33,9 @@ So we've put together some basic ground rules to make sure that everyone can wor
 Before going further, take some time to read through the [**Code of Conduct**](/CODE_OF_CONDUCT.md).
 Let's all do our part to make sure this place is an awesome, safe, inclusive and kind place to share our thoughts and feels about games.
 
-- **Please note that this project is released with a Contributor Code of Conduct.
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
+> **Please note that this project is released with a Contributor Code of Conduct.
 By participating in this project you agree to abide by its terms.**
 
 ## Join the Conversation
@@ -90,7 +90,27 @@ More about these two in the section below.
 
 ### Start conversations by creating an 'Issue'
 
-<!-- todo -->
+Don't let the name fool you, Issues are the most powerful comment and discussion tool ever made.
+They were originally created to keep track of software bugs, and so the tool needed to have lots of capabilities for expressing that level of detail.
+
+Lucky for us, because even though we're not discussing software changes, we *are* discussing detailed game designs.
+So even though they're called Issues, just know that Issues are a place to have conversations related to *ASGD*.
+
+The search feature is very powerful.
+And the tags assigned to different threads are there to help sort through everything.
+
+If you have an idea, do a quick search in the Issues.
+If you find something already there, go ahead and add your voice to the conversation.
+If you don't find what you're looking for, go ahead and start a new thread by clicking the big '**New Issue**' button.
+
+Some open source projects lock down the Issues for very specific kinds of discussions.
+For *ASGD* though, we feel that they are a fantastic place to have more general conversations.
+And if there are specific things to note, like typos or feature requests, those can easily be noted and filtered with tags.
+
+What I'm saying is, don't shy away from creating Issues.
+They're there to keep conversations organized and focused, not to limit the amount or kinds of communication.
+
+> **Come introduce yourself in the [official Introductions thread](https://github.com/austinschoolofgamedesign/hub-world/issues/6)!**
 
 ### Work In Progress (WIP) goes in a 'Pull Request'
 
