@@ -1,13 +1,5 @@
 # How to contribute to the *Austin School of Game Design*
 
-- organizing though consistent folders and filenames
-- What tags are best to start with?
-- Short Links to Important Resources:
-  - docs: handbook / roadmap (you'll learn more about this in the roadmapping session)
-  - bugs: issue tracker / bug report tool
-  - comms: forum link, developer list, IRC/email
-<!-- todo: finish this list -->
-
 ## A Big Welcome
 
 We're *so* glad you're here!
@@ -41,14 +33,14 @@ However, sometimes we have different opinions about the steps to get there, and 
 So we've put together some basic ground rules to make sure that everyone can work together amicably.
 
 Before going further, take some time to read through the [**Code of Conduct**](/CODE_OF_CONDUCT.md).
-Let's all do our part to make sure this place is an awesome place to share our thoughts and feels about games.
+Let's all do our part to make sure this place is an awesome, safe, inclusive and kind place to share our thoughts and feels about games.
 
-> Please note that this project is released with a Contributor Code of Conduct.
-> By participating in this project you agree to abide by its terms.
+- **Please note that this project is released with a Contributor Code of Conduct.
+By participating in this project you agree to abide by its terms.**
 
 ## Join the Conversation
 
-Now that the ground rules are out of the way, it's time for us to get to know each other.
+Now that we;ce covered the ground rules, it's time for us to get to know each other.
 We have two official places set up to talk. Both places are great for getting to know other game design nerds.
 
 1. The first is in the [Issues](https://github.com/austinschoolofgamedesign/hub-world/issues)  section of GitHub.
@@ -69,13 +61,46 @@ In this section we'll go over some of the common terms and how we use them at *A
 > [**Pull Requests**](https://github.com/austinschoolofgamedesign/hub-world/pulls) are where we keep all new content.
 > As soon as you start working on something new, make a new branch and open a 'Draft Pull Request'
 
-<!-- todo -->
+For everyone else - that is, you're new to using GitHub - a brief explanation is in order.
+GitHub is complicated.
+There's no denying that.
+It's a complicated bit of software, originally made for software developers.
+
+And while the learning curve is still steep, we really don't need *most* of the things that GitHub does.
+
+In fact, we mostly use GiHub for three main things:
+
+1. Publicly Tracked Collaboration
+1. Version Control
+1. Issues/Pull Requests
+
+Starting with point (1), *ASGD* is an open source project.
+Which means that similar to a Wiki, anyone who wants to contribute to the project, can.
+GitHub was developed to support open sourced projects of all sizes, and so the tools and workflows make it easy for massive projects like this one to thrive.
+
+Point (2), version control.
+Basically, this means that from the very beginning of the project, you can see every change that's been made to the repository.
+In fact, you can see who made edits on an individual line basis in every single document.
+This level of transparency is important for two reasons.
+First, it makes it clear who contributed what so that proper attribution is documented for when things get published or used under our Creative Commons license.
+Second, it means that if someone ever accidentally (or maliciously) deleted or messed up anything on the repository, we can very easily and selectively roll back to when things were working well.
+
+And number (3) is the process that we have conversations and go through reviews of drafts for submission.
+More about these two in the section below.
 
 ### Start conversations by creating an 'Issue'
 
 <!-- todo -->
 
 ### Work In Progress (WIP) goes in a 'Pull Request'
+
+<!-- todo -->
+
+### GitHub workflow
+
+<!-- todo -->
+
+#### A sample workflow
 
 <!-- todo -->
 
@@ -98,8 +123,7 @@ But a day of practice soves that problem.
 There is a ton of really helpful documentation of how Markdown works.
 Rather than trying to reinvent the wheel here, I recommend you go check out these two links:
 
-- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) - Start here
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Use this once you get the hang of it
+Start with the [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/), and graduate up to only needing the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) once you get the hang of it.
 
 Here's an example.
 I can write this:
@@ -107,7 +131,7 @@ I can write this:
 ```markdown
 **Welcome to *ASGD*!**
 
-This is a [link to Google](www.google.com).
+This is a [link to Google](https://www.google.com).
 
 - And here's a list
 
