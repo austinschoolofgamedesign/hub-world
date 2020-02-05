@@ -2,9 +2,6 @@
 
 - organizing though consistent folders and filenames
 - What tags are best to start with?
-- Style guide for what headers, line breaks, etc., mean.
--
-- How to do a 'Merge/Squash'
 - Short Links to Important Resources:
   - docs: handbook / roadmap (you'll learn more about this in the roadmapping session)
   - bugs: issue tracker / bug report tool
@@ -32,12 +29,13 @@ Expect more discussion and soft opinions here.
 1. [How to Use GitHub](#how-to-use-github)
 1. [Formatting and Styling](#formatting-and-styling)
 1. [Folder and File Naming](#folder-and-file-naming)
+1. [When You're Ready to Submit](#when-youre-ready-to-submit)
 
 ## Code of Conduct
 
 Before we get to the fun stuff, we need to set some ground rules.
 We're all part of a larger community here, and we all want the same end goal - to build the best and most accessible game design school in the world.
-However, sometimes we have different opinions about the steps to get there, and tensions can rise up.
+However, sometimes we have different opinions about the steps to get there, and tensions can get high.
 So we've put together some basic ground rules to make sure that everyone can work together amicably.
 
 Before going further, take some time to read through the [**Code of Conduct**](/CODE_OF_CONDUCT.md).
@@ -72,7 +70,7 @@ In this section we'll go over some of the common terms and how we use them at *A
 
 <!-- todo -->
 
-### Submit drafts for review by opening a 'Pull Request'
+### Work In Progress (WIP) goes in a 'Pull Request'
 
 <!-- todo -->
 
@@ -88,13 +86,72 @@ If you're not comfortable using the dev tools, I recommend checking out free Mar
 
 Modern word processors like Microsoft Word or Libre Office have a ton of options for styling text with different fonts, colors and layouts.
 For our purposes at *ASGD*, most of those features only cause problems.
-Markdown
+Markdown simplifies the process by removing all but the essential styling options, and asks you to type them out manually in plain text.
+When first using Markdown, it feels a little messy, especially when you don;t remeber what the different symbols mean.
+But a day of practice soves that problem.
 
-https://www.markdownguide.org/basic-syntax/
+There is a ton of really helpful documentation of how Markdown works.
+Rather than trying to reinvent the wheel here, I recommend you go check out these two links:
 
-https://www.markdownguide.org/cheat-sheet/
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) - Start here
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Use this once you get the hang of it
+
+Here's an example.
+I can write this:
+
+```markdown
+**Welcome to *ASGD*!**
+
+This is a [link to Google](www.google.com).
+
+- And here's a list
+
+1. And a numbered list
+1. A second number
+```
+
+And the output is:
+
+> **Welcome to *ASGD*!**
+>
+> This is a [link to Google](www.google.com).
+>
+> - And here's a list
+>
+> 1. And a numbered list
+> 1. A second number
+
+From a programming and publishing perspective, the main reason we use Markdown is because it plays very nicely with the internet, eBooks and traditional publishing.
+No additional formatting and style changes need to be made before submitting a document for final presentation.
+Since we're a community of volunteers, less work before presentation means more visibility (and therefore hopefully adoption).
 
 ### *ASGD* Styling Conventions
+
+Now that you've got an idea of what Markdown is, and the simplified styling it provides, let's take a look at how we use the different styling options.
+
+| **Markdown** | **Name** | ***ASGD* Usage** |
+|-----------------|--------------------|-----------------------------------------------------------------------------------------------------------------------|
+| `#` | Main Header | There is only one of these in the entire document. It's pulled by the computer to generate the title of the article. |
+| `##` - `######` | Additional Headers | All additional header levels are automatically pulled for generating a 'Table of Contents' for easier navigation |
+| `*text*` | Italic and Bold | We use the `*` symbol to surround words for italics and bold. Not the `_` symbol. |
+| `-` | List | Lists are started with the `-` symbol. |
+| `⮐` | Line Break | This is a weird one, but still important. We make a new line after every single sentence. Markdown will render the text as one large paragraph, but the data is stored on multiple lines. This convention helps track changes to articles over time. |
+
+GitHub tracks changes to all documents across time, along with the person that made those changes.
+But it can only keep track of that on a line by line basis.
+So by breaking paragraphs into individual lines, we allow GitHub to track changes on a sentence by sentence basis, rather than a paragraph basis.
+
+A double line break is used instead of a single line break to create new paragraphs.
+
+And in case you were wondering, the above two paragraphs look like this behind the scenes:
+
+```markdown
+GitHub tracks changes to all documents across time, along with the person that made those changes.
+But it can only keep track of that on a line by line basis.
+So by breaking paragraphs into individual lines, we allow GitHub to track changes on a sentence by sentence basis, rather than a paragraph basis.
+
+A double line break is used instead of a single line break to create new paragraphs.
+```
 
 ## Folder and File Naming
 
@@ -128,3 +185,11 @@ There are three required elements to each filename.
   - Because modern operating systems default to automatically adding filenames to the end of your files, it's easy to forget to add it manually.
   Specifically be careful to always remember the `.md` extension for Markdown text files.
   The computer uses the `.md` extension to format the text correctly.
+
+### Folders
+
+<!-- todo -->
+
+## When You're Ready to Submit
+
+<!-- todo - How to do a 'Merge/Squash' -->
