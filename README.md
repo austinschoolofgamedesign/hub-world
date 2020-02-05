@@ -1,6 +1,7 @@
 # Welcome to the *Austin School of Game Design*
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Here you'll find high quality game design resources - for both video games and board/tabletop games - written and shared under the open source **Creative Commons license (CC BY-SA 4.0)**.
 
@@ -68,6 +69,8 @@ If you've ever done a game analysis, designed a board game, GM'd a tabletop game
 Check out our [step-by-step contributor guide](/CONTRIBUTOR.md) for more details when you're ready!
 
 ## Licensed under Creative Commons
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Everything here is licensed under the **[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)** flavor of Creative Commons.
 For some reference, this is the same license used by [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Copyrights).
