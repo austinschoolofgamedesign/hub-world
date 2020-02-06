@@ -140,8 +140,6 @@ First, you need to create a working copy of the *ASGD* repository - called a For
 
 You create a Fork by clicking the button at the top of the screen.
 
-<!-- todo: add image -->
-
 When you contribute to an open source project on GitHub, you're not actually making direct edits to the repository like you would on Wikipedia, for example.
 What you're doing is making a copy of the entire *ASGD* repository and saving it to your own personal GitHub account.
 
@@ -156,23 +154,61 @@ Though, my hope is that you'll stick around and get through to the 'Merge' secti
 
 #### Step 2 - Write your piece
 
-<!-- todo -->
+Yay!
+You now get to work on crafting the most beautiful piece of content you've ever written.
+(Or most beautiful typo fix ever written? I'm not here to judge.)
 
-#### Step 3 - Create a Pull Request
+You can do this a few different ways, but I'll focus on the most basic.
+If you want to go become a GitHub pro, by all means have at it.
+But for our needs, you really only need to be able to edit some text in some files.
 
-<!-- todo -->
+You do this by either creating a new document by clicking the '**Create New File**' on the landing page, or you edit an existing page by clicking on the little **pencil icon** in the top right corner of the page you want to edit.
+
+You can type directly into GitHub's built-in editor, or you can use an external Markdown editor like [Dillinger](https://dillinger.io/) and copy/paste the text into the GitHub editor.
+
+For quick changes, like typo fixes, I'd recommend just using the built in editor.
+For everything else, it's nice to see what your formatting will look like rendered as you type it, so a third party editor would be convenient.
+
+#### Step 3 - Committing and creating a Pull Request
+
+Once you get to a place where you want to save your work or have someone else take a look at it, you're going to (1) create a commit, and (2) open a Pull Request.
+
+To make a commit, you're going to scroll to the bottom of the page you're editing.
+You'll see a box with two fields, only the first is required.
+You'll type a little description of what you changed into the first box - something short and descriptive - and then click the button labeled '**Commit Changes**'.
+The default settings are fine.
+
+You've now saved your edits to your own personal Fork.
+Next you need to send us a request to pull your edits into the main repository.
+This is where you create a '**Pull Request**'.
+
+To create a **Pull Request**, you're going to click on the tab at the top of your screen labeled '**Pull Requests**'.
+Once there, there will be a big green button labeled '**New pull request**'.
+Click that, and it will have a bunch of default settings.
+The defaults are fine.
+
+The only default setting you need to change is the by clicking the down arrow on the right side of the '**Create pull request**' button and change that to create a draft pull request.
+
+Make sure you add a summary of the changes you've made, and then create that pull request!
 
 #### Step 4 - Get it reviewed
 
-<!-- todo -->
+At this point, the maintiners over here are notified and we'll all come looking at your submission.
+We can have conversations about your submission, make suggestions, or request styling changes.
+
+If there's any back and forth that needs to happen, take this opportunity to make those changes.
+To be honest, most everything you submit will probably get through the review process without a hitch.
+We're only here to maintain quality standards, not to filter content.
+So have no fear.
 
 #### Step 5 - Merge your Pull Request
 
-<!-- todo -->
+And then you're done!
+Once everything has been reviewed and approved by at least one maintainer, your contribution will be merged into the `beta-draft` staging branch.
+Periodically, those changes all get pushed live to the public master branch in coordination with other releases.
 
-#### An example workflow
-
-<!-- todo -->
+Tada!
+You've contributed to an open source project!
 
 ## Formatting and Styling
 
@@ -252,7 +288,7 @@ So by breaking paragraphs into individual lines, we allow GitHub to track change
 A double line break is used instead of a single line break to create new paragraphs.
 ```
 
-## Folder and File Naming
+## File Naming
 
 ### Filenames
 
@@ -284,7 +320,3 @@ There are three required elements to each filename.
   - Because modern operating systems default to automatically adding filenames to the end of your files, it's easy to forget to add it manually.
   Specifically be careful to always remember the `.md` extension for Markdown text files.
   The computer uses the `.md` extension to format the text correctly.
-
-### Folders
-
-<!-- todo -->
