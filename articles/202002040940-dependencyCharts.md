@@ -1,8 +1,8 @@
 # Dependency Charts
 
 This article serves two purposes.
-The first is to document the two main ways I've seen item/lock/key dependencies documented and designed in games.
-The second is to muse on and present some ideas about a new kind of graph that caputers the best elements of them all.
+The first is to present the main ways I've seen item/lock/key dependencies documented and designed in games.
+The second is to muse on and present some ideas about a new kind of graph that captures the best elements of them all.
 
 My hope is that we, as a community, can collectively can stand on the shoulders of giants and lift everyone a little higher.
 
@@ -17,10 +17,11 @@ My hope is that we, as a community, can collectively can stand on the shoulders 
 Below is a chart of all of the key item dependencies required to beat *Ocarina of Time*.
 It's extremely valuable in documenting the flow of events throughout the game as a whole without getting caught up in the details of dungeons and story elements.
 
-> **NOTE**: Gareth Rees, the author of this chart, added some structure to the chart by placing dependencies above and below one another.
+> **NOTE**: Gareth Rees, the author of this chart, added some structure by placing dependencies above and below one another.
+> Things lower on the chart are dependent on the things above them.
 > It makes the graph easier to read with so many elements.
 
-![Ocarina of Time Item Graph](/images/202002041230-ootReesItemGraph.png)
+<!-- ![Ocarina of Time Item Graph](/images/202002041230-ootReesItemGraph.png) -->
 
 Image from *[Puzzle Structure of Ocarina of Time](https://garethrees.org/2004/12/01/ocarina-of-time/)* by Gareth Rees on [garethrees.com](https://garethrees.org/2004/12/01/ocarina-of-time/)
 
@@ -59,7 +60,7 @@ I recreated Gareth Rees' item dependency chart using Mark Brown's chart structur
 Of note is how easy it is to see how linear the game is at first, but quickly opens up when you become an adult.
 Then you can see the game narrow down slowly until it becomes linear toward the end.
 
-![Mark Brown Style Ocarina of Time Item Graph](/images/202002041236-ootGMTKGraph.png)
+<!-- ![Mark Brown Style Ocarina of Time Item Graph](/images/202002041236-ootGMTKGraph.png) -->
 
 ## Petri Nets
 
@@ -74,7 +75,35 @@ They're better at documenting literal systems than they are at quickly comparing
 
 ### Petri Net Chart Elements
 
+Petri Nets are have four specific elements:
+
+1. State Marker (Circle)
+1. Transition Marker (Rectangle/Bar)
+1. Input Arc (Into a Transition)
+1. Output Arc (Out of a Transition)
+1. Places (Dots inside the State)
+
+These four elements can make some fairly robust concurrent system graphs.
+
 ### Petri Net Chart Specific Insights
+
+What I find really cool about them is the way the elements have one-to-one correlations with the building blocks of games.
+
+It's been said that games are a bunch of verbs. <!-- todo: need citation -->
+So, an easy correlation could be:
+
+1. States -> States
+1. Transitions -> Verbs
+1. Arcs -> connections between them
+
+So a player character's move set can be modeled using a series of States and Verbs keeping track of the different states via the places stored within the state circles.
+
+Or the items in a map could be represented via a series of states, as well as the player character's position in the physical space.
+The key/lock paradigm that is the focus of Mark Brown's graphs can be modeled as well.
+
+Essentially, Petri Nets could be a very powerful way to model and keep track of a lot of information.
+
+<!-- TODO: talk about limitations and colored nets -->
 
 > **NOTE**: I started to recreate Rees' chart as a Petri Net, but it became unwieldy quickly.
 > The benefits of using a vanilla Petri Net in this case are negligible.

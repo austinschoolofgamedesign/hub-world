@@ -13,6 +13,10 @@ Here you'll find high quality game design resources - for both video games and b
 - Textbooks, scholarly papers
 - Lists of external resources like recommended books, conventions, programs, etc.
 
+## Table of Contents
+
+For a list of all the articles currently written, check out our [**Table of Contents**](tableOfContents.md).
+
 ## Project Motivation
 
 When doing a Google search for '[game design](http://google.com/#q=game+design)' as of January 2020, the results skew heavily toward accredited degrees and expensive training programs.
