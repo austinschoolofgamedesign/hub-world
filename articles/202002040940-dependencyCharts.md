@@ -103,7 +103,16 @@ The key/lock paradigm that is the focus of Mark Brown's graphs can be modeled as
 
 Essentially, Petri Nets could be a very powerful way to model and keep track of a lot of information.
 
-<!-- TODO: talk about limitations and colored nets -->
+The problem with them is they have a hard time displaying different *kinds* of information on the same graph.
+For that, a variation, called Colored Petri Nets, has been created.
+These Colored Nets keep track of the data that's being passed around the net by "coloring" each token.
+The coloring doesn;t have to be literal, only that they're unique.
+
+So you could have aplayer token moving around the net, and different items and inventories could be represented with other colors.
+Then you would define what kinds of units transitions can consume and output.
+
+In the end, Petri Nets are cool and - I believe - have a lot of potential for modeling game stuff.
+Their cons keep them from being elegant, but their pros make them a strong contender with some tweaks.
 
 > **NOTE**: I started to recreate Rees' chart as a Petri Net, but it became unwieldy quickly.
 > The benefits of using a vanilla Petri Net in this case are negligible.
@@ -112,4 +121,21 @@ Essentially, Petri Nets could be a very powerful way to model and keep track of 
 
 ## My Hybrid Charts
 
-I really like the robustness of Petri Nets in comparison to Ron Gilbert's more generalized 
+I really like the robustness of Petri Nets in comparison to Ron Gilbert's more generalized nodes-and-arrows approach.
+But I also love the extremely communicative approach of Mark's graphs, which isn;t found in the other two.
+
+I feel like a customized Petri Net-kind of graph that keeps the benefits of both Petri Nets and Mark Brown's graphs would be ideal.
+
+I stumbled across a really cool [Petri Net inspired graph concept](http://www.stephanebura.com/diagrams/) by Stéphane Bura a while back, which is headed in the right direction of what I'm thinking.
+However, the units that he models are not the same kinds of things I want to model with my graphs.
+
+In particular I like that he also employs a cascading structure, where things lower on the graph are dependent on things above it, almost like it gravity trickles down to an ineviatble outcome.
+Which feels similar to the built-in structure of Mark's graphs.
+
+So, yeah!
+I've been kicking this idea around for a while now - a few years really - but haven't spent a ton of time trying to formalize my thoughts.
+I've mostly just tinkered with Petri Nets, wishing they were different, but not changing anything about them.
+
+I think I'd like some input if you're interested in giving it.
+I opened up an Issue for an ongoing discussion over here:
+
