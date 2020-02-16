@@ -139,3 +139,4 @@ I've mostly just tinkered with Petri Nets, wishing they were different, but not 
 I think I'd like some input if you're interested in giving it.
 I opened up an Issue for an ongoing discussion over here:
 
+https://github.com/austinschoolofgamedesign/hub-world/issues/9
