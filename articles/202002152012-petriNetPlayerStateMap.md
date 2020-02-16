@@ -27,3 +27,4 @@ Referring to them as `Dash`, `Jump`, and `Right` makes most sense to me.
   - VS other Links would be an interesting analysis
 - Gohma (OoT) boss states
   - This could be an interesting comparison of boss states for analysis
+  
